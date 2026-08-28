@@ -139,4 +139,3 @@ Normative Data Table for VO2 Max. Retrieved from https://www.machars.net/v02max.
 Soccer VO2 max dataset. *UNM Digital Repository*, University of New Mexico. Retrieved
 from https://digitalrepository.unm.edu/cgi/viewcontent.cgi?article=1013&context=ume-research-papers
 
-Original project notebook: https://rpubs.com/VejoVejas/769259
