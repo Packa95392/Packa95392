@@ -1,47 +1,42 @@
-# Hi, I'm Agne 👋
+# Data Analyst | Data Quality, Governance & Applied Statistics
 
-Data analyst with 7+ years across federal, defense, and public-health data
-programs — currently building toward a statistics degree, with the long-term goal
-of working as a statistician.
+Data analyst with 7+ years of experience across federal, defense, and public-health data programs. I specialize in building trustworthy data foundations — including data quality, governance, metadata, metric definitions, and data lineage — and using analysis and visualization to turn that data into actionable information.
 
-I specialize in the less-visible side of data work: data quality, governance,
-and the metric/metadata frameworks that make an organization's numbers trustworthy
-in the first place — as well as the dashboards and analysis that turn that data
-into decisions.
+I am currently pursuing a degree in statistics, with a particular interest in applied statistics and quantitative research.
 
-## 🔧 What I work with
+## 🔧 What I Work With
 
-- **Languages & querying:** R, Python, SQL
-- **BI & visualization:** Power BI, Tableau
-- **Platforms:** Snowflake, MS Access, Excel (advanced)
-- **Practices:** data dictionaries, metadata management, data lineage, quality
-  assurance, disclosure avoidance, survey methodology
+**Languages & querying:** R, Python, SQL  
+**BI & visualization:** Power BI, Tableau, ggplot2  
+**Platforms & tools:** Snowflake, Microsoft Access, Advanced Excel  
+**Data practices:** Data dictionaries, metadata management, data lineage, quality assurance, disclosure avoidance, survey methodology
 
-## 📌 Featured projects
+## 📌 Featured Projects
 
-- **[VO2 Max Comparison of Six Sports](https://github.com/Packa95392/vo2max-sports-analysis)**
-  — R / ggplot2 analysis testing whether cross-country skiing really has the
-  highest VO2 max of any sport, using published physiology data across six
-  sports. Covers regression trends, data-quality limitations, and a closer look
-  at an unexpected finding in soccer performance data.
+### VO2 Max Comparison of Six Sports
+**R · ggplot2 · Statistical Analysis**
 
-- **[NYC Flights: Relational Data & Delay Analysis](https://github.com/Packa95392/nycflights-relational-analysis)**
-  — R / dplyr / ggmap analysis of the `nycflights13` dataset, joining across five
-  related tables (flights, airports, planes, airlines, weather) to map flight
-  destinations and visualize arrival delays during a known severe-weather event.
-  Includes data-quality checks for missing and unmatched records.
+An analysis testing whether cross-country skiing actually has the highest VO2 max of any sport, using published physiological data across six sports.
 
-*(More projects in progress — check back soon.)*
+The project explores regression trends, data-quality limitations, differences in study populations and measurement methods, and an unexpected finding in the soccer data.
+
+### NYC Flights: Relational Data & Delay Analysis
+**R · dplyr · ggmap · Data Wrangling**
+
+An analysis of the `nycflights13` dataset demonstrating relational data analysis across five connected tables: flights, airports, planes, airlines, and weather.
+
+The project includes joins across related datasets, mapping flight destinations, analysis of arrival delays during a severe-weather event, and data-quality checks for missing and unmatched records.
+
+*More projects in progress — check back soon.*
 
 ## 🎯 Currently
 
-Working as a data analyst on a public-health program (rural health
-transformation reporting to CMS), and studying toward a statistics degree.
-Open to connecting with anyone in data analytics, data governance, or applied
-statistics.
+Working as a data analyst on a public-health program supporting rural health transformation reporting to CMS, while pursuing a degree in statistics.
 
-## 📫 Reach me
+Interested in connecting with people working in **data analytics, data governance, statistical analysis, and applied statistics**.
 
-- Email: packa953922@proton.me
-- Best way to connect — feel free to reach out directly with any questions
-  about my work or background.
+## 📫 Contact
+
+**Email:** packa953922@proton.me
+
+Feel free to reach out with questions about my projects, analytical work, or background.
