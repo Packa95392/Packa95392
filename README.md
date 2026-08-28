@@ -2,7 +2,7 @@
 
 Data analyst with 7+ years of experience across federal, defense, and public-health data programs. I specialize in building trustworthy data foundations — including data quality, governance, metadata, metric definitions, and data lineage — and using analysis and visualization to turn that data into actionable information.
 
-I am currently pursuing a degree in statistics, with a particular interest in applied statistics and quantitative research.
+I have an interest in statistics.
 
 ## 🔧 What I Work With
 
