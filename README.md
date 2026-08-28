@@ -31,7 +31,7 @@ The project includes joins across related datasets, mapping flight destinations,
 
 ## 🎯 Currently
 
-Working as a data analyst on a public-health program supporting rural health transformation reporting to CMS, while pursuing a degree in statistics.
+Working as a data analyst on a public-health program.
 
 Interested in connecting with people working in **data analytics, data governance, statistical analysis, and applied statistics**.
 
