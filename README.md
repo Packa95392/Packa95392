@@ -31,9 +31,9 @@ The project includes joins across related datasets, mapping flight destinations,
 
 ## 🎯 Currently
 
-Working as a data analyst on a public-health program.
+Working as a data analyst in a public-health program.
 
-Interested in connecting with people working in **data analytics, data governance, statistical analysis, and applied statistics**.
+Interested in connecting with people working in **data analytics, data governance, statistical analysis, and statistics**.
 
 ## 📫 Contact
 
